@@ -1,0 +1,506 @@
+﻿[Script Info]
+Title: Dantel Şeyler
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Amazon Ember,69,&H00FFFFFF,&H000000FF,&H00000000,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.5,2,250,250,60,1
+Style: Alt,Amazon Ember,69,&H00FFFFFF,&H000000FF,&H00622D0B,&H5F000000,0,0,0,0,100,100,0,0,1,3.2,1.5,2,250,250,60,1
+Style: e-ts,Amazon Ember,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,0
+Style: op,Cormorant Infant,62,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 20,0:00:10.29,0:00:12.20,Default,,0,0,0,,Albayım, biz de dahil olmalıydık.
+Dialogue: 20,0:00:12.62,0:00:14.67,Default,,0,0,0,,Hiçbir faydamız olmazdı.
+Dialogue: 20,0:00:15.10,0:00:19.49,Default,,0,0,0,,Bizdeki silahlarla o şeylere çizik bile atamayız.
+Dialogue: 20,0:00:21.04,0:00:25.62,Default,,0,0,0,,Burada bütün iş avcıların.
+Dialogue: 20,0:00:42.23,0:00:43.80,Default,,0,0,0,,Herkes saldırsın!
+Dialogue: 20,0:00:43.80,0:00:46.84,Default,,0,0,0,,Bizi geçtikleri anda ön cephenin işi biter!
+Dialogue: 20,0:01:03.02,0:01:07.42,Default,,0,0,0,,Olamaz! Seviyelerimiz çok düşük, hiç şansımız yok!
+Dialogue: 20,0:01:08.77,0:01:10.84,Default,,0,0,0,,{\i1}Lanet olsun... Daha fazla...
+Dialogue: 20,0:01:11.36,0:01:12.55,Default,,0,0,0,,{\i1}...dayanamayacağım...
+Dialogue: 20,0:01:23.19,0:01:24.52,Default,,0,0,0,,{\i1}Şifa büyüsü mü?
+Dialogue: 20,0:01:26.83,0:01:29.50,Default,,0,0,0,,{\i1}İnanılmaz. Bir anda iyileştirdi!
+Dialogue: 20,0:01:30.44,0:01:32.20,Default,,0,0,0,,Dikkat et!
+Dialogue: 20,0:01:32.20,0:01:34.12,Default,,0,0,0,,Piyangiyu, eğil!
+Dialogue: 20,0:01:35.70,0:01:37.03,Default,,0,0,0,,Yunho!
+Dialogue: 20,0:01:37.03,0:01:37.87,Default,,0,0,0,,Geldim!
+Dialogue: 20,0:01:50.36,0:01:51.69,Default,,0,0,0,,Bunlar S Seviye!
+Dialogue: 20,0:01:51.69,0:01:53.68,Default,,0,0,0,,S Seviye avcılar da dahil oldu!
+Dialogue: 20,0:01:53.68,0:01:56.06,Default,,0,0,0,,Çok acele ediyorsun Piyangiyu.
+Dialogue: 20,0:01:56.06,0:01:59.36,Default,,0,0,0,,Kusura bakmayın. Elimden geldiğince\Nfazla kişiye yardım etmek istiyorum.
+Dialogue: 20,0:01:59.36,0:02:03.35,Default,,0,0,0,,Ayrıca, beni koruyacağınızı biliyorum.
+Dialogue: 20,0:02:11.28,0:02:14.42,Default,,0,0,0,,Başları bu değildir diye düşünüyorum.
+Dialogue: 20,0:02:14.42,0:02:16.99,Default,,0,0,0,,Muhtemelen bu sürünün lideridir.
+Dialogue: 20,0:02:17.60,0:02:19.59,Default,,0,0,0,,Piyangiyu, yaralılar sende.
+Dialogue: 20,0:02:19.92,0:02:22.08,Default,,0,0,0,,Merak etme Yunho!
+Dialogue: 20,0:02:22.45,0:02:24.23,Default,,0,0,0,,Gidelim Unsog!
+Dialogue: 20,0:02:24.23,0:02:25.54,Default,,0,0,0,,Tamamdır!
+Dialogue: 20,0:02:55.72,0:02:57.05,Default,,0,0,0,,Safi kas gücü.
+Dialogue: 20,0:03:01.02,0:03:03.41,Default,,0,0,0,,Görünen o ki liderleri de değilmiş.
+Dialogue: 20,0:03:03.41,0:03:05.36,Default,,0,0,0,,Sarmaya başladı.
+Dialogue: 20,0:03:18.03,0:03:21.32,Default,,0,0,0,,Zamanında yetiştiler belli ki.
+Dialogue: 20,0:03:24.60,0:03:27.27,Default,,0,0,0,,Bizim de işe koyulma vaktimiz geldi.
+Dialogue: 20,0:03:28.14,0:03:30.10,Default,,0,0,0,,Lonca lideri Çüve, emrinizi bekliyoruz!
+Dialogue: 20,0:03:30.10,0:03:31.11,Default,,0,0,0,,Tamam.
+Dialogue: 20,0:03:44.90,0:03:47.07,Default,,0,0,0,,Saldırı başlasın!
+Dialogue: 20,0:03:52.67,0:03:54.85,Default,,0,0,0,,10 yıl kadar önce...
+Dialogue: 20,0:03:54.85,0:03:59.84,Default,,0,0,0,,...dünyamızı farklı bir boyuta bağlayan\Nbazı geçitler ortaya çıktı.
+Dialogue: 20,0:04:00.96,0:04:04.06,Default,,0,0,0,,Her geçit, "büyü canavarları" adını verdiğimiz...
+Dialogue: 20,0:04:04.06,0:04:06.01,Default,,0,0,0,,...birbirinden tuhaf yaratıklar barındırıyordu.
+Dialogue: 20,0:04:06.01,0:04:08.37,Default,,0,0,0,,Geleneksel silahlarımıza karşı dayanıklıydılar.
+Dialogue: 20,0:04:08.37,0:04:12.12,Default,,0,0,0,,Bu canavarlarla savaşabilecek\Nyetenekleri ortaya çıkanlara...
+Dialogue: 20,0:04:12.51,0:04:14.68,Default,,0,0,0,,...avcılar denildi.
+Dialogue: 20,0:04:14.68,0:04:17.86,Default,,0,0,0,,Bedenlerindeki büyü gücü miktarına bağlı olarak...
+Dialogue: 20,0:04:17.86,0:04:25.29,Default,,0,0,0,,...yukarıdan aşağıya S, A, B, C, D\Nve E seviye olarak sınıflandırıldılar.
+Dialogue: 20,0:04:26.38,0:04:31.32,Default,,0,0,0,,Ancak güçleri ortaya çıktıktan sonra,\Nne kadar uğraşırlarsa uğraşsınlar...
+Dialogue: 20,0:04:32.00,0:04:35.00,Default,,0,0,0,,...seviyelerini yükseltemiyorlardı.
+Dialogue: 20,0:04:58.47,0:05:00.54,Default,,0,0,0,,Baskında iyi şanslar.
+Dialogue: 20,0:05:00.54,0:05:01.72,Default,,0,0,0,,Teşekkürler.
+Dialogue: 20,0:05:03.59,0:05:04.91,Default,,0,0,0,,Bay Kim!
+Dialogue: 20,0:05:04.91,0:05:06.30,Default,,0,0,0,,Uzun zaman olmuştu!
+Dialogue: 20,0:05:07.64,0:05:09.25,Default,,0,0,0,,Bay Park!\NBurada ne işin var?
+Dialogue: 20,0:05:09.72,0:05:12.47,Default,,0,0,0,,Avcılıkla işim bitti diyordun.
+Dialogue: 20,0:05:13.71,0:05:15.71,Default,,0,0,0,,Eşim ikinciye hamile kalmadan önceydi o.
+Dialogue: 20,0:05:17.00,0:05:20.22,Default,,0,0,0,,Baskın iyi giderse paraya para demezsin.
+Dialogue: 20,0:05:21.07,0:05:22.51,Default,,0,0,0,,Yine de tırsıyorum.
+Dialogue: 20,0:05:22.51,0:05:25.57,Default,,0,0,0,,O kadar uzun zaman oldu ki,\Neskisi gibi becerebilir miyim bilmiyorum.
+Dialogue: 20,0:05:25.57,0:05:27.28,Default,,0,0,0,,Hem eskiden de pek güçlü değildim.
+Dialogue: 20,0:05:28.31,0:05:29.75,Default,,0,0,0,,Sang gelmiş!
+Dialogue: 20,0:05:29.75,0:05:31.73,Default,,0,0,0,,Nasılsın bakalım Sang?
+Dialogue: 20,0:05:31.73,0:05:33.79,Default,,0,0,0,,Bu soğuk havada bile gelmen iyi oldu.
+Dialogue: 20,0:05:35.78,0:05:37.57,Default,,0,0,0,,Herkese şimdiden başarılar.
+Dialogue: 20,0:05:38.80,0:05:42.04,Default,,0,0,0,,Sang! Gelmeden önce bir şeyler yedin mi?
+Dialogue: 20,0:05:42.04,0:05:44.79,Default,,0,0,0,,Evet. Düzgün bir kahvaltı yaptım.
+Dialogue: 20,0:05:45.82,0:05:49.59,Default,,0,0,0,,Elemanın olayı ne? Güçlü biri falan mı?\NHerkes selam veriyor.
+Dialogue: 20,0:05:50.71,0:05:52.04,Default,,0,0,0,,Tam tersi.
+Dialogue: 20,0:05:52.04,0:05:55.79,Default,,0,0,0,,Sen bıraktıktan sonra katılan bir çocuk.
+Dialogue: 20,0:05:56.10,0:05:58.86,Default,,0,0,0,,"İnsanlığın Gördüğü En Güçsüz Avcı" diye ad taktılar.
+Dialogue: 20,0:05:58.86,0:06:01.36,Default,,0,0,0,,En güçsüz mü?\NGüçlü derken dilin mi sürçtü?
+Dialogue: 20,0:06:01.36,0:06:02.30,Default,,0,0,0,,Hayır.
+Dialogue: 20,0:06:02.30,0:06:05.30,Default,,0,0,0,,Şöyle diyeyim, E seviye bir geçide\Ngirip çıktığında, hastanelik oldu.
+Dialogue: 20,0:06:05.86,0:06:08.41,Default,,0,0,0,,Muhtemelen dünyadaki en güçsüz avcıdır.
+Dialogue: 20,0:06:08.41,0:06:11.14,Default,,0,0,0,,Dünyadaki en güçsüz mü?\NO kadar mı kötü durumda?
+Dialogue: 20,0:06:11.14,0:06:15.04,Default,,0,0,0,,Şöyle düşünebilirsin, onun davet\Nedildiği bir baskın, çantada kekliktir.
+Dialogue: 20,0:06:15.04,0:06:16.68,Default,,0,0,0,,Anladım.
+Dialogue: 20,0:06:16.68,0:06:20.07,Default,,0,0,0,,Bizi duyarsa tatsız olur, o yüzden uzatmayalım.
+Dialogue: 20,0:06:21.18,0:06:23.38,Default,,0,0,0,,{\i1}Her kelimesini duydum gerçi.
+Dialogue: 20,0:06:23.86,0:06:27.86,Default,,0,0,0,,{\i1}Ama gerçeklerin karşısında ne desem boş.
+Dialogue: 20,0:06:27.86,0:06:30.40,Default,,0,0,0,,Yok artık Jinu!\NYine mi yaralandın?
+Dialogue: 20,0:06:31.28,0:06:34.23,Default,,0,0,0,,Juhi... Görünüşe göre yine aynı gruptayız...
+Dialogue: 20,0:06:34.77,0:06:37.89,Default,,0,0,0,,Bırak şimdi de suratına ne olduğunu söyle.
+Dialogue: 20,0:06:37.89,0:06:40.83,Default,,0,0,0,,Her zaman olan şey işte...
+Dialogue: 20,0:06:41.99,0:06:44.34,Default,,0,0,0,,Biraz kendine dikkat et ya!
+Dialogue: 20,0:06:45.49,0:06:47.76,Default,,0,0,0,,Hastanelik olduğunu duydum.
+Dialogue: 20,0:06:47.76,0:06:50.36,Default,,0,0,0,,E seviye bir zindandı,\No yüzden sadece ben yaralandım.
+Dialogue: 20,0:06:50.99,0:06:52.67,Default,,0,0,0,,Yanınızda şifacı yok muydu?
+Dialogue: 20,0:06:53.02,0:06:57.81,Default,,0,0,0,,Benim dışımdakiler yüksek seviye\Nolduğu için şifacıya gerek duymamışlar.
+Dialogue: 20,0:06:58.13,0:06:59.42,Default,,0,0,0,,Ciddi misin?
+Dialogue: 20,0:06:59.42,0:07:01.58,Default,,0,0,0,,Yalnızca kendilerini düşünmeleri çok ayıp!
+Dialogue: 20,0:07:01.58,0:07:04.74,Default,,0,0,0,,Sorun değil. Zayıflığımın\Nsorumluluğunu onlara yükleyemeyiz.
+Dialogue: 20,0:07:04.74,0:07:07.33,Default,,0,0,0,,Durumumu biliyorsun Juhi.
+Dialogue: 20,0:07:07.66,0:07:09.21,Default,,0,0,0,,Alıştım artık.
+Dialogue: 20,0:07:11.24,0:07:13.25,Default,,0,0,0,,Baskın başlıyor sanırım.
+Dialogue: 20,0:07:13.25,0:07:14.25,Default,,0,0,0,,Gidelim.
+Dialogue: 20,0:07:15.48,0:07:19.79,Default,,0,0,0,,Bugünkü baskında\Nnaçizane lideriniz ben olacağım.
+Dialogue: 20,0:07:19.79,0:07:20.92,Default,,0,0,0,,Adım Çihul Song.
+Dialogue: 20,0:07:21.32,0:07:22.97,Default,,0,0,0,,Memnun oldum.
+Dialogue: 20,0:07:22.97,0:07:24.82,Default,,0,0,0,,Eh, haliyle.
+Dialogue: 20,0:07:24.82,0:07:27.94,Default,,0,0,0,,Aramızdaki en yetenekli kişi Bay Song.
+Dialogue: 20,0:07:27.94,0:07:29.76,Default,,0,0,0,,Başımızda olması çok rahatlatıcı.
+Dialogue: 20,0:07:30.38,0:07:32.50,Default,,0,0,0,,Yanınızdayız, Bay Song.
+Dialogue: 20,0:07:33.83,0:07:36.07,Default,,0,0,0,,Peki bakalım. \NHerkes hazır mı?
+Dialogue: 20,0:07:36.07,0:07:37.06,Default,,0,0,0,,Girelim o halde.
+Dialogue: 20,0:07:42.52,0:07:43.72,Default,,0,0,0,,Sang.
+Dialogue: 20,0:07:45.06,0:07:47.89,Default,,0,0,0,,Arkamızda kal ve yaralanmamaya çalış.
+Dialogue: 20,0:07:49.08,0:07:49.97,Default,,0,0,0,,Peki.
+Dialogue: 20,0:07:49.97,0:07:52.07,Default,,0,0,0,,Hadi iyi şanslar.
+Dialogue: 20,0:07:55.29,0:07:58.48,Default,,0,0,0,,{\i1}Neredeyse hiç büyü gücü olmayan bir bıçak...
+Dialogue: 20,0:07:58.94,0:08:02.09,Default,,0,0,0,,{\i1}Ama param ancak buna yetiyor.
+Dialogue: 20,0:08:02.57,0:08:04.54,Default,,0,0,0,,{\i1}Hiç yoktan iyidir.
+Dialogue: 20,0:08:07.18,0:08:09.04,Default,,0,0,0,,Bu sefer sonuna kadar dayanacağım.
+Dialogue: 20,0:08:18.27,0:08:20.66,Default,,0,0,0,,Hoş geldiniz Başkan Go.
+Dialogue: 20,0:08:21.36,0:08:23.45,Default,,0,0,0,,Yönetimle olan toplantınız nasıl geçti?
+Dialogue: 20,0:08:24.01,0:08:26.74,Default,,0,0,0,,Hep aynı şeyler.
+Dialogue: 20,0:08:26.74,0:08:28.65,Default,,0,0,0,,Zindanların ortaya çıkması bir sorun...
+Dialogue: 20,0:08:28.65,0:08:33.03,Default,,0,0,0,,...ama öyle ya da böyle,\Noralardan toplanacak kaynakları istiyorlar.
+Dialogue: 20,0:08:34.60,0:08:37.84,Default,,0,0,0,,Neden istediklerini anlamak zor değil.
+Dialogue: 20,0:08:37.84,0:08:43.38,Default,,0,0,0,,Biz avcılar, o kaynakları satarak\Ngeçimimizi sağlıyoruz zaten.
+Dialogue: 20,0:08:48.22,0:08:53.57,Default,,0,0,0,,Öldürülen canavarlardan toplanan bu cevherler...
+Dialogue: 20,0:08:53.57,0:08:54.92,Default,,0,0,0,,...oldukça değerli.
+Dialogue: 20,0:09:01.22,0:09:02.35,Default,,0,0,0,,Başardım!
+Dialogue: 20,0:09:02.79,0:09:04.47,Default,,0,0,0,,Sonunda bir tane ele geçirdim.
+Dialogue: 20,0:09:04.47,0:09:21.36,Default,,0,0,0,,Jinu!
+Dialogue: 20,0:09:21.36,0:09:22.71,Default,,0,0,0,,Geri çekil Juhi!
+Dialogue: 20,0:09:27.88,0:09:29.93,Default,,0,0,0,,Sonraki canavara geçiyorum.
+Dialogue: 20,0:09:29.93,0:09:31.75,Default,,0,0,0,,Juhi, Sang sana emanet!
+Dialogue: 20,0:09:32.28,0:09:33.59,Default,,0,0,0,,Tamam!
+Dialogue: 20,0:09:35.22,0:09:38.90,Default,,0,0,0,,İyi olacaksın!\NSeni iyileştireceğim!
+Dialogue: 20,0:09:55.54,0:09:59.53,Default,,0,0,0,,Yüksek seviye canavarlardan\Ntoplanan cevherler ile...
+Dialogue: 20,0:09:59.53,0:10:05.21,Default,,0,0,0,,...canavarlarla dövüşmeye yarayan\Ngüçlü silahlar ve ekipmanlar yapılıyor.
+Dialogue: 20,0:10:05.76,0:10:10.40,Default,,0,0,0,,Zindanların içinden çıkan büyü kristallerinin de\Nbenzer bir kullanım alanı var...
+Dialogue: 20,0:10:10.40,0:10:13.01,Default,,0,0,0,,...ama etkileri daha düşük oluyor.
+Dialogue: 20,0:10:13.01,0:10:15.95,Default,,0,0,0,,Hükûmetin peşinde olduğu şeyse farklı.
+Dialogue: 20,0:10:16.52,0:10:19.40,Default,,0,0,0,,Onlardan enerji kaynağı\Nolarak faydalanmak istiyorlar.
+Dialogue: 20,0:10:19.97,0:10:22.14,Default,,0,0,0,,Nükleerden daha güvenli.
+Dialogue: 20,0:10:22.14,0:10:25.34,Default,,0,0,0,,Hidroelektriğe, rüzgara ve\Njeotermale göre daha verimli.
+Dialogue: 20,0:10:25.34,0:10:28.18,Default,,0,0,0,,Atmosferi fosil yakıtlar gibi kirletmiyor.
+Dialogue: 20,0:10:28.94,0:10:31.63,Default,,0,0,0,,Arzulanan temiz enerji kaynağı.
+Dialogue: 20,0:10:31.63,0:10:33.85,Default,,0,0,0,,Cevherleri ve büyü taşlarını kullanarak...
+Dialogue: 20,0:10:33.85,0:10:36.36,Default,,0,0,0,,...elektrik üretmenin bir yolunu arıyorlar.
+Dialogue: 20,0:10:36.36,0:10:39.55,Default,,0,0,0,,Yalnızca avcıların \Ntoplayabildiği nadide bir kaynak...
+Dialogue: 20,0:10:40.11,0:10:43.83,Default,,0,0,0,,Bu yüzden avcıların omuzlarında ağır bir yük var.
+Dialogue: 20,0:10:50.80,0:10:52.36,Default,,0,0,0,,İşte bu kadar!
+Dialogue: 20,0:10:51.46,0:10:53.77,Default,,0,0,0,,{\an8}İşte be! Zindan efendisinin işi bitti!
+Dialogue: 20,0:10:53.77,0:10:54.90,Default,,0,0,0,,Tebrikler Bay Song!
+Dialogue: 20,0:10:54.90,0:10:55.79,Default,,0,0,0,,Başardık!
+Dialogue: 20,0:10:58.57,0:11:03.31,Default,,0,0,0,,Jinu, inat ettiğin için mi\Navcılığı bırakmıyorsun?
+Dialogue: 20,0:11:03.86,0:11:07.23,Default,,0,0,0,,Avcılığa devam edersen, bundan\Nçok daha kötü bir duruma düşmen an meselesi.
+Dialogue: 20,0:11:07.65,0:11:11.18,Default,,0,0,0,,Sadece karnından yaralanmamışsın.\NVücudunun her yerinde kesikler var!
+Dialogue: 20,0:11:11.18,0:11:11.98,Default,,0,0,0,,Üzgünüm...
+Dialogue: 20,0:11:12.33,0:11:16.32,Default,,0,0,0,,Özür istemiyorum!\NSenin için endişeleniyorum!
+Dialogue: 20,0:11:22.18,0:11:25.03,Default,,0,0,0,,Düşürdüklerinizi topladınız mı?
+Dialogue: 20,0:11:25.03,0:11:27.55,Default,,0,0,0,,Alabildiğimiz kadarını aldık.
+Dialogue: 20,0:11:27.55,0:11:30.37,Default,,0,0,0,,Pek büyü kristali çıkmadı maalesef.
+Dialogue: 20,0:11:30.37,0:11:33.13,Default,,0,0,0,,Çok bir şey kazandırmayacak.
+Dialogue: 20,0:11:34.05,0:11:35.82,Default,,0,0,0,,{\i1}Bitti demek.
+Dialogue: 20,0:11:36.72,0:11:40.22,Default,,0,0,0,,{\i1}Elime tek geçen de bir E seviye cevher oldu.
+Dialogue: 20,0:11:41.32,0:11:43.93,Default,,0,0,0,,{\i1}Ölümle burun buruna gelmeye değer mi, tartışılır.
+Dialogue: 20,0:11:47.27,0:11:49.02,Default,,0,0,0,,Şuna bakın!
+Dialogue: 20,0:11:49.83,0:11:50.73,Default,,0,0,0,,Mağara mı?
+Dialogue: 20,0:11:50.73,0:11:51.96,Default,,0,0,0,,Tünel gibi.
+Dialogue: 20,0:11:51.96,0:11:54.48,Default,,0,0,0,,Bayağı uzuna benziyor.
+Dialogue: 20,0:11:54.90,0:11:56.84,Default,,0,0,0,,Çift zindan mı?
+Dialogue: 20,0:11:56.84,0:11:58.88,Default,,0,0,0,,Bahsedildiğini duymuştum ama...
+Dialogue: 20,0:11:58.88,0:12:02.86,Default,,0,0,0,,Zindan efendisini öldürdük\Nama geçit kapanacak gibi durmuyor.
+Dialogue: 20,0:12:02.86,0:12:05.33,Default,,0,0,0,,Evet, bana da garip geldi.
+Dialogue: 20,0:12:05.60,0:12:06.76,Default,,0,0,0,,Demek ki...
+Dialogue: 20,0:12:06.76,0:12:10.29,Default,,0,0,0,,Aynen, ileride düşürülecek\Ndaha fazla şey olabilir.
+Dialogue: 20,0:12:10.29,0:12:12.25,Default,,0,0,0,,Herkes beni dinlesin.
+Dialogue: 20,0:12:12.69,0:12:15.08,Default,,0,0,0,,Bunun gibi beklenmedik durumlarda...
+Dialogue: 20,0:12:15.08,0:12:18.55,Default,,0,0,0,,...standart prosedür, Avcılar Birliği'nin\Nemirlerini beklemek şeklindedir.
+Dialogue: 20,0:12:18.55,0:12:20.62,Default,,0,0,0,,Durun bir saniye Bay Song...
+Dialogue: 20,0:12:20.62,0:12:24.22,Default,,0,0,0,,O zaman yeni bir grup gelip\Ntüm iyi malları ceplemiş olmayacak mı?
+Dialogue: 20,0:12:24.22,0:12:28.19,Default,,0,0,0,,Sonuçta D seviye zindanın devamı, bize koymaz.
+Dialogue: 20,0:12:28.19,0:12:32.19,Default,,0,0,0,,Adam tekrar baba olmak üzere.\NPek büyü kristali de bulamadık.
+Dialogue: 20,0:12:32.70,0:12:35.46,Default,,0,0,0,,Kuralları birazcık esnetsek, ne çıkar?
+Dialogue: 20,0:12:35.46,0:12:36.73,Default,,0,0,0,,Değil mi?
+Dialogue: 20,0:12:36.73,0:12:41.16,Default,,0,0,0,,Sizi anlıyorum.\NAma yine de riskli.
+Dialogue: 20,0:12:41.52,0:12:42.78,Default,,0,0,0,,Oylamaya sunalım.
+Dialogue: 20,0:12:42.78,0:12:44.08,Default,,0,0,0,,Bilemiyorum...
+Dialogue: 20,0:12:44.08,0:12:45.09,Default,,0,0,0,,Ben varım!
+Dialogue: 20,0:12:45.09,0:12:46.42,Default,,0,0,0,,Bence girmeyelim.
+Dialogue: 20,0:12:46.42,0:12:47.34,Default,,0,0,0,,Hayır.
+Dialogue: 20,0:12:47.34,0:12:48.68,Default,,0,0,0,,Bir kontrol edelim.
+Dialogue: 20,0:12:48.68,0:12:49.44,Default,,0,0,0,,Aynen.
+Dialogue: 20,0:12:49.44,0:12:50.19,Default,,0,0,0,,Evet.
+Dialogue: 20,0:12:50.19,0:12:51.75,Default,,0,0,0,,Sanmıyorum.
+Dialogue: 20,0:12:51.75,0:12:53.16,Default,,0,0,0,,Bence girelim.
+Dialogue: 20,0:12:53.16,0:12:54.09,Default,,0,0,0,,Bence de.
+Dialogue: 20,0:12:54.09,0:12:57.05,Default,,0,0,0,,Üzgünüm, ben istemiyorum.
+Dialogue: 20,0:12:58.16,0:13:00.88,Default,,0,0,0,,Oylar 6-6 oldu.
+Dialogue: 20,0:13:01.28,0:13:04.03,Default,,0,0,0,,Senin oyun kaldı Sang.\NSen ne diyorsun?
+Dialogue: 20,0:13:04.03,0:13:05.97,Default,,0,0,0,,Bence...
+Dialogue: 20,0:13:07.06,0:13:11.14,Default,,0,0,0,,{\i1}D seviye zindanlar bile benim için bayağı tehlikeli.
+Dialogue: 20,0:13:11.96,0:13:14.99,Default,,0,0,0,,{\i1}Ama... Babam kayıp olduğu için...
+Dialogue: 20,0:13:14.99,0:13:17.15,Default,,0,0,0,,{\i1}...aileme ben bakmak zorundayım.
+Dialogue: 20,0:13:18.02,0:13:22.07,Default,,0,0,0,,{\i1}Annemin tedavisi ve kız kardeşimin\Nüniversiteye gitmesi için para gerekli...
+Dialogue: 20,0:13:22.71,0:13:25.53,Default,,0,0,0,,{\i1}Bana para lazım!
+Dialogue: 20,0:13:26.68,0:13:27.69,Default,,0,0,0,,Gidelim.
+Dialogue: 20,0:13:34.71,0:13:38.02,Default,,0,0,0,,Şimdi, siyah kristale tek elinizle\Ndokunmanızı rica edeceğim.
+Dialogue: 20,0:13:44.64,0:13:46.64,Default,,0,0,0,,Sıradaki lütfen.
+Dialogue: 20,0:13:50.18,0:13:53.58,Default,,0,0,0,,C seviye misin?\NLoncamıza katılmanı isteriz.
+Dialogue: 20,0:13:53.58,0:13:56.59,Default,,0,0,0,,İşte kontrat.
+Dialogue: 20,0:13:56.59,0:13:58.79,Default,,0,0,0,,Çalışma şartlarını detaylı şekilde görebilirsin...
+Dialogue: 20,0:14:01.82,0:14:07.20,Default,,0,0,0,,Evet. Bir B, iki tane de C seviye\Nanlaşmayı kabul etti.
+Dialogue: 20,0:14:07.64,0:14:10.11,Default,,0,0,0,,Şimdilik işler iyi gidiyor Lonca lideri Çüve.
+Dialogue: 20,0:14:10.11,0:14:11.66,Default,,0,0,0,,Çok sevindim.
+Dialogue: 20,0:14:11.66,0:14:16.38,Default,,0,0,0,,Yaş ve cinsiyetin bir önemi yok.\NYatırım yapmaya değiyorsa, teklifini yap.
+Dialogue: 20,0:14:16.92,0:14:22.34,Default,,0,0,0,,Heğyin Ça gibi birini\Nbulmayı beklememek lazım.
+Dialogue: 20,0:14:24.32,0:14:26.07,Default,,0,0,0,,Biri şunları durdursun!
+Dialogue: 20,0:14:26.07,0:14:27.30,Default,,0,0,0,,Açılın lan!
+Dialogue: 20,0:14:31.78,0:14:34.26,Default,,0,0,0,,Çekil önümüzden!\NEzip geçelim mi istiyorsun?
+Dialogue: 20,0:14:57.50,0:14:58.00,Default,,0,0,0,,İşte.
+Dialogue: 20,0:14:58.75,0:15:01.28,Default,,0,0,0,,Teşekkürler! Çok teşekkür ederim!
+Dialogue: 20,0:14:59.96,0:15:01.28,Default,,0,0,0,,{\an8}Heğyin Ça bu!
+Dialogue: 20,0:15:01.28,0:15:02.34,Default,,0,0,0,,Heğyin Ça!
+Dialogue: 20,0:15:02.34,0:15:03.47,Default,,0,0,0,,S seviye avcı!
+Dialogue: 20,0:15:03.47,0:15:04.61,Default,,0,0,0,,Vay be!
+Dialogue: 20,0:15:04.61,0:15:05.48,Default,,0,0,0,,Gerçekten de o!
+Dialogue: 20,0:15:05.48,0:15:06.48,Default,,0,0,0,,Harika ya!
+Dialogue: 20,0:15:06.48,0:15:07.39,Default,,0,0,0,,{\an8}Seni çok seviyorum!
+Dialogue: 20,0:15:06.48,0:15:09.19,Default,,0,0,0,,Özür dilerim...
+Dialogue: 20,0:15:07.39,0:15:08.69,Default,,0,0,0,,{\an8}Elini sıkabilir miyim?
+Dialogue: 20,0:15:15.10,0:15:16.68,Default,,0,0,0,,Hareketlere bak!
+Dialogue: 20,0:15:16.68,0:15:19.02,Default,,0,0,0,,S seviye işte.
+Dialogue: 20,0:15:21.28,0:15:23.71,Default,,0,0,0,,Mağaraya gireli ne kadar oldu?
+Dialogue: 20,0:15:23.71,0:15:25.64,Default,,0,0,0,,40 dakika kadar.
+Dialogue: 20,0:15:25.64,0:15:28.56,Default,,0,0,0,,Geçit, zindan efendisi öldükten\N1 saat sonra kapanıyorsa...
+Dialogue: 20,0:15:28.56,0:15:30.14,Default,,0,0,0,,...daha 20 dakikamız var demektir.
+Dialogue: 20,0:15:30.83,0:15:32.92,Default,,0,0,0,,Özür dilerim.
+Dialogue: 20,0:15:32.92,0:15:34.50,Default,,0,0,0,,Neden?
+Dialogue: 20,0:15:34.50,0:15:38.63,Default,,0,0,0,,Benim oyum yüzünden zindan efendisini arıyoruz.
+Dialogue: 20,0:15:38.63,0:15:41.96,Default,,0,0,0,,Beni merak etmen gerekmiyor, unut gitsin.
+Dialogue: 20,0:15:42.54,0:15:44.71,Default,,0,0,0,,Sorun yok mu diyorsun?
+Dialogue: 20,0:15:45.14,0:15:46.91,Default,,0,0,0,,Tabii ki...
+Dialogue: 20,0:15:46.91,0:15:48.54,Default,,0,0,0,,...sorunum var!
+Dialogue: 20,0:15:48.54,0:15:50.30,Default,,0,0,0,,Neler olduğunu unuttun galiba?
+Dialogue: 20,0:15:50.30,0:15:54.35,Default,,0,0,0,,Deminki saldırı biraz daha yukarıya\Ndenk gelseydi çoktan ölmüştün Jinu!
+Dialogue: 20,0:15:54.35,0:15:59.62,Default,,0,0,0,,Kollarınla bacaklarını\Nzar zor iyileştirdim! Deli misin!
+Dialogue: 20,0:15:59.62,0:16:03.19,Default,,0,0,0,,Kafana darbe almadığına emin misin?\NÇünkü ben emin değilim!
+Dialogue: 20,0:16:03.19,0:16:04.69,Default,,0,0,0,,Özür dilerim...
+Dialogue: 20,0:16:05.15,0:16:10.16,Default,,0,0,0,,{\i1}Juhi gibi B seviye bir şifacının olması\Nsayesinde birkaç kez ölümden döndüğüm doğru.
+Dialogue: 20,0:16:10.62,0:16:12.71,Default,,0,0,0,,Sorunun farkında mısın gerçekten?
+Dialogue: 20,0:16:12.71,0:16:13.65,Default,,0,0,0,,Evet.
+Dialogue: 20,0:16:15.44,0:16:19.62,Default,,0,0,0,,O halde belki minnettarlığını göstermek\Niçin bana bir şeyler ısmarlarsın.
+Dialogue: 20,0:16:20.98,0:16:24.44,Default,,0,0,0,,Ne oldu? Yoksa beni yemeğe çıkarma\Nfikri hoşuna gitmedi mi?
+Dialogue: 20,0:16:24.44,0:16:26.55,Default,,0,0,0,,Yok, alakası yok!
+Dialogue: 20,0:16:26.55,0:16:27.56,Default,,0,0,0,,İşte geldik!
+Dialogue: 20,0:16:27.56,0:16:29.05,Default,,0,0,0,,Zindan efendisinin odası.
+Dialogue: 20,0:16:31.64,0:16:34.73,Default,,0,0,0,,Genelde böyle kapılarla pek karşılaşmayız.
+Dialogue: 20,0:16:34.73,0:16:36.38,Default,,0,0,0,,Korkutucu görünüyor.
+Dialogue: 20,0:16:37.64,0:16:38.87,Default,,0,0,0,,Ben giriyorum.
+Dialogue: 20,0:16:38.87,0:16:40.86,Default,,0,0,0,,Bu saatten sonra eve elim boş dönemem.
+Dialogue: 20,0:16:40.86,0:16:42.98,Default,,0,0,0,,Aynen. Girelim.
+Dialogue: 20,0:16:43.34,0:16:45.55,Default,,0,0,0,,Birlikte ilerleyeceğiz dedik.
+Dialogue: 20,0:16:45.55,0:16:48.36,Default,,0,0,0,,Değil mi, Lider Song?
+Dialogue: 20,0:16:49.35,0:16:50.92,Default,,0,0,0,,Aynen öyle.
+Dialogue: 20,0:16:54.84,0:17:00.50,Default,,0,0,0,,{\i1}Yetenekleri yeni ortaya çıkan arkadaşlar:\NAdım Konhi Go, Avcılar Birliği'nin başkanıyım.
+Dialogue: 20,0:17:00.50,0:17:04.07,Default,,0,0,0,,{\i1}Aranızda avcı olmayı seçmiş olanların yanında...
+Dialogue: 20,0:17:04.07,0:17:07.46,Default,,0,0,0,,{\i1}...tercih etmeyenler de bulunuyor.
+Dialogue: 20,0:17:07.46,0:17:10.08,Default,,0,0,0,,{\i1}Geçitler ortaya çıkalı 10 yıldan fazla oldu...
+Dialogue: 20,0:17:10.08,0:17:13.03,Default,,0,0,0,,{\i1}...ve hâlâ haklarında bilmediğimiz\Nçok fazla şey bulunuyor.
+Dialogue: 20,0:17:13.03,0:17:15.43,Default,,0,0,0,,{\i1}Avcı olmak, hayatınızı tehlikeye atmak demektir.
+Dialogue: 20,0:17:15.43,0:17:19.46,Default,,0,0,0,,{\i1}Baskınlara ne kadar alışırsanız alışın,\Ngardınızı bir an bile indirmeyin.
+Dialogue: 20,0:17:19.46,0:17:22.32,Default,,0,0,0,,{\i1}Ne kibrinize yenik düşün,\Nne de dikkatsizce davranın.
+Dialogue: 20,0:17:22.32,0:17:24.40,Default,,0,0,0,,{\i1}Yaşamak istiyorsanız, bu nasihatimi unutmayın:
+Dialogue: 20,0:17:24.68,0:17:26.86,Default,,0,0,0,,{\i1}Lütfen, daima korkun.
+Dialogue: 20,0:17:35.03,0:17:36.97,Default,,0,0,0,,İçerisi aydınlandı.
+Dialogue: 20,0:17:36.97,0:17:38.35,Default,,0,0,0,,Ortama baksanıza!
+Dialogue: 20,0:17:38.35,0:17:40.54,Default,,0,0,0,,Hiç böyle bir zindan görmemiştim.
+Dialogue: 20,0:17:49.63,0:17:51.67,Default,,0,0,0,,Bu heykeller de ne böyle?
+Dialogue: 20,0:17:51.67,0:17:53.68,Default,,0,0,0,,Çok eski duruyorlar.
+Dialogue: 20,0:17:53.68,0:17:55.46,Default,,0,0,0,,Bazılarının elinde müzik aletleri var.
+Dialogue: 20,0:18:01.73,0:18:03.69,Default,,0,0,0,,İçlerinde en büyüğü bu.
+Dialogue: 20,0:18:04.34,0:18:05.83,Default,,0,0,0,,Dev gibiymiş harbi.
+Dialogue: 20,0:18:05.83,0:18:06.82,Default,,0,0,0,,Ne heykeli ki bu?
+Dialogue: 20,0:18:06.82,0:18:08.40,Default,,0,0,0,,Rahatsız edici görünüyor.
+Dialogue: 20,0:18:08.86,0:18:11.50,Default,,0,0,0,,Bu arada etrafta hiç canavar yok.
+Dialogue: 20,0:18:11.50,0:18:12.32,Default,,0,0,0,,Doğru dedin.
+Dialogue: 20,0:18:12.32,0:18:14.15,Default,,0,0,0,,Bir tane bile yok...
+Dialogue: 20,0:18:15.86,0:18:18.04,Default,,0,0,0,,Bu ne?\NBüyü çemberi mi?
+Dialogue: 20,0:18:18.04,0:18:20.75,Default,,0,0,0,,Bay Song! Burada bir yazı var!
+Dialogue: 20,0:18:21.67,0:18:24.21,Default,,0,0,0,,Kadim bir metin mi acaba? Bir bakalım...
+Dialogue: 20,0:18:24.88,0:18:27.59,Default,,0,0,0,,"Cartenon Tapınağı'nın Emirleri."
+Dialogue: 20,0:18:27.59,0:18:30.26,Default,,0,0,0,,"Bir, Tanrı'ya saygı gösterin."
+Dialogue: 20,0:18:30.76,0:18:33.59,Default,,0,0,0,,"İki, Tanrı'ya şükredin."
+Dialogue: 20,0:18:31.35,0:18:32.38,Default,,0,0,0,,{\an8}Jinu!
+Dialogue: 20,0:18:34.27,0:18:37.43,Default,,0,0,0,,"Üç, Tanrı'ya olan inancınızı kanıtlayın."
+Dialogue: 20,0:18:37.43,0:18:40.80,Default,,0,0,0,,Büyük heykel bize bakıyordu!
+Dialogue: 20,0:18:41.24,0:18:43.69,Default,,0,0,0,,Bizi izliyordu!
+Dialogue: 20,0:18:44.77,0:18:48.44,Default,,0,0,0,,{\an8}"Her kim ki bu emirlere uymaz..."
+Dialogue: 20,0:18:46.02,0:18:48.44,Default,,0,0,0,,Yok canım. Sana öyle gelmiştir.
+Dialogue: 20,0:18:49.11,0:18:51.07,Default,,0,0,0,,"...buradan canlı çıkamayacaktır" mı?
+Dialogue: 20,0:18:55.35,0:18:57.24,Default,,0,0,0,,Kapı kapandı!
+Dialogue: 20,0:18:57.24,0:18:59.22,Default,,0,0,0,,Ama neden?
+Dialogue: 20,0:18:59.22,0:19:02.06,Default,,0,0,0,,Burada sıkışıp kaldık mı yani?
+Dialogue: 20,0:19:03.12,0:19:04.88,Default,,0,0,0,,Ben de böyle bir şeyden korkuyordum!
+Dialogue: 20,0:19:04.88,0:19:07.04,Default,,0,0,0,,Durumun ciddiyetini\Nkavrayamazsanız olacağı bu!
+Dialogue: 20,0:19:07.39,0:19:09.95,Default,,0,0,0,,Bu tarafa hiç gelmemeliydik!
+Dialogue: 20,0:19:09.95,0:19:10.75,Default,,0,0,0,,Ben gidiyorum!
+Dialogue: 20,0:19:11.29,0:19:14.51,Default,,0,0,0,,Ganimet midir ne halttır alın sizin olsun.
+Dialogue: 20,0:19:14.51,0:19:15.89,Default,,0,0,0,,Bana eyvallah!
+Dialogue: 20,0:19:17.14,0:19:18.80,Default,,0,0,0,,Çekil oradan!
+Dialogue: 20,0:19:35.49,0:19:37.33,Default,,0,0,0,,Olamaz!
+Dialogue: 20,0:19:37.33,0:19:38.16,Default,,0,0,0,,Şaka mı bu?
+Dialogue: 20,0:19:38.16,0:19:38.95,Default,,0,0,0,,Hareket etti!
+Dialogue: 20,0:19:39.56,0:19:42.13,Default,,0,0,0,,Bunlarla mı savaşacağız?
+Dialogue: 20,0:19:43.81,0:19:46.20,Default,,0,0,0,,{\i1}Ölen eleman...
+Dialogue: 20,0:19:46.20,0:19:47.37,Default,,0,0,0,,{\i1}...D seviye miydi?
+Dialogue: 20,0:19:47.72,0:19:51.02,Default,,0,0,0,,{\i1}E seviye bile olsa, hiç değilse\Nbenden iyi olduğu kesindi.
+Dialogue: 20,0:19:52.21,0:19:55.01,Default,,0,0,0,,{\i1}Yine de bir anda... öylece...
+Dialogue: 20,0:19:55.67,0:19:58.56,Default,,0,0,0,,{\i1}Çok saçma! Burası D seviye bir zindandı!
+Dialogue: 20,0:19:58.56,0:20:00.64,Default,,0,0,0,,{\i1}İçeride bu tarz büyülü canavarlar olmamalıydı!
+Dialogue: 20,0:20:01.08,0:20:04.33,Default,,0,0,0,,Heykeller hareket ediyor... Yoksa...
+Dialogue: 20,0:20:18.28,0:20:22.20,Default,,0,0,0,,{\i1}Bugüne kadar onlarca kez\Nölümle yüz yüze geldim.
+Dialogue: 20,0:20:22.83,0:20:26.25,Default,,0,0,0,,{\i1}Katıldığım ilk baskında\Nherkesten ayrı düştüm ve kayboldum.
+Dialogue: 20,0:20:26.90,0:20:30.41,Default,,0,0,0,,{\i1}E seviye canavarların saldırısına uğrayıp,\Nhaftalarca hastanede yattım.
+Dialogue: 20,0:20:30.78,0:20:33.89,Default,,0,0,0,,{\i1}Labirentin tekinde de\Nneredeyse açlıktan ölüyordum.
+Dialogue: 20,0:20:34.30,0:20:38.93,Default,,0,0,0,,{\i1}Zindanın seviyesi ne kadar düşük\Nolursa olsun, daima yaşam savaşı verdim.
+Dialogue: 20,0:20:39.88,0:20:44.02,Default,,0,0,0,,{\i1}Çoğu avcı cevherlerden kazandıkları\Nparayla silah alabiliyor...
+Dialogue: 20,0:20:44.02,0:20:48.31,Default,,0,0,0,,{\i1}...böylece daha güçlü canavarlar öldürüp,\Ndaha büyük kazançlar elde edebiliyorlardı.
+Dialogue: 20,0:20:48.98,0:20:51.67,Default,,0,0,0,,{\i1}Ama ben ancak bu ucuz bıçağı alabiliyordum.
+Dialogue: 20,0:20:51.67,0:20:54.68,Default,,0,0,0,,{\i1}Kırıldığı anda, yalnızca yumruklarıma kalıyordum.
+Dialogue: 20,0:20:56.50,0:20:58.57,Alt,,0,0,0,,Bu ayakkabıların da işi bitti.
+Dialogue: 20,0:20:59.40,0:21:02.80,Default,,0,0,0,,{\i1}Günler böyle geçiyordu...
+Dialogue: 20,0:21:05.56,0:21:08.53,Default,,0,0,0,,{\i1}Dalga geçmelerine aldırış etmedim\Nve riski kazancından...
+Dialogue: 20,0:21:08.53,0:21:10.58,Default,,0,0,0,,{\i1}...çok daha fazla olan\Ntehlikeli bir görev aldım.
+Dialogue: 20,0:21:10.93,0:21:13.36,Default,,0,0,0,,{\i1}Ama yine de hayatta kalmak için...
+Dialogue: 20,0:21:13.36,0:21:16.05,Default,,0,0,0,,{\i1}...gözlerimi açık tutup,\Nfırsatları yakalamayı öğrendim.
+Dialogue: 20,0:21:16.85,0:21:19.42,Default,,0,0,0,,{\i1}Belki de bunun sayesinde...
+Dialogue: 20,0:21:19.96,0:21:21.47,Default,,0,0,0,,Yere yatın!
+Dialogue: 20,0:21:36.66,0:21:37.82,Default,,0,0,0,,Şaka mı lan bu!
+Dialogue: 20,0:21:38.82,0:21:39.83,Default,,0,0,0,,Burada neler oluyor?
+Dialogue: 20,0:21:39.83,0:21:41.03,Default,,0,0,0,,Ben ne bileyim?
+Dialogue: 20,0:21:41.03,0:21:42.18,Default,,0,0,0,,İyi misin?
+Dialogue: 20,0:21:42.18,0:21:44.42,Default,,0,0,0,,İyiyim. Sende bir şey var mı?
+Dialogue: 20,0:21:44.42,0:21:45.70,Default,,0,0,0,,Bende de bir şey yok.
+Dialogue: 20,0:21:45.70,0:21:48.41,Default,,0,0,0,,Yeter... Yeter!
+Dialogue: 20,0:21:48.87,0:21:51.37,Default,,0,0,0,,{\i1}Neler oluyor burada?
+Dialogue: 20,0:21:52.17,0:21:54.09,Default,,0,0,0,,{\i1}Nasıl böyle bir şey olabilir?
+Dialogue: 20,0:21:54.65,0:21:57.05,Default,,0,0,0,,{\i1}Burada kısılı kaldık.\NKaçacak bir yerimiz yok.
+Dialogue: 20,0:21:57.05,0:21:59.51,Default,,0,0,0,,{\i1}Öleceğiz... Öleceğiz!
+Dialogue: 20,0:22:03.01,0:22:04.47,Default,,0,0,0,,{\i1}Burada ölüp gideceğiz!
+Comment: 0,0:00:00.00,0:00:00.02,e-ts,,0,0,0,,{yazı dizimi}
+Dialogue: 0,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an7\bord0\shad0\blur1\pos(0,0)\p1\c&H000000&}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 1,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\fsp15\fs100\c&HFFFFFF&\fnCormorant Infant\pos(960,540)\iclip(m 551 520.41 l 564.52 509.97 535.16 504.57 532.84 532.39 m 585.33 533.37 l 585.51 548.47 580.12 551.35 561.24 552.25 560.34 528.87 579.4 527.61 m 764.21 544.36 l 803.01 543.91 804.81 578.2 764.21 578.2 m 1095.1 542.84 l 1117.81 542.5 1120.84 548.89 1132.62 547.21 1135.14 584.06 1081.98 576.49 m 1098.92 522.98 l 1100.73 511.06 1083.63 509.5 1087 523.76 m 1155.54 539.98 l 1175.91 540.32 1193.45 539.15 1193.61 572.71 1146.19 572.71 m 1301.19 506.09 l 1359.16 506.79 1354.97 578.37 1303.98 574.53)}TEK YÜKSELEBİLEN
+Dialogue: 1,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\fsp15\fs100\c&HFFFFFF&\fnCormorant Infant\fry180\pos(573.62,540)\clip(m 585.33 533.37 l 585.51 548.47 580.12 551.35 561.24 552.25 560.34 528.87 579.4 527.61)}E
+Dialogue: 1,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\fsp15\fs100\c&HFFFFFF&\fnCormorant Infant\pos(803,540)\clip(m 764.21 544.36 l 803.01 543.91 804.81 578.2 764.21 578.2)}U
+Dialogue: 1,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\fsp15\fs100\c&HFFFFFF&\fnCormorant Infant\clip(m 1095.1 542.84 l 1117.81 542.5 1120.84 548.89 1128.58 558.36 1135.14 584.06 1098.32 574.95)\pos(1120.81,539.21)}E
+Dialogue: 1,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\fsp15\fs100\c&HFFFFFF&\fnCormorant Infant\clip(m 1155.54 539.98 l 1175.91 540.32 1193.45 539.15 1193.61 572.71 1146.19 572.71)\pos(1179.99,539.21)}B
+Dialogue: 1,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\fsp15\fs100\c&HFFFFFF&\fnCormorant Infant\frx180\pos(1339.24,540)}E
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(508.76,536.18)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\pos(502.3,535.88)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(509.99,570.63)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(482,523.88)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx100\fscy300\pos(494.61,596.17)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\fscy25\pos(497.07,573.4)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx150\fscy25\pos(495.22,572.48)}|
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(556.97,532.94)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(566.29,533.15)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(564.52,565.62)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(557.57,564.84)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\fscy50\pos(563.62,565.33)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx150\pos(557.57,564.84)\fscy50}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(580.11,530.34)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(588.39,530.34)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(622.08,532.66)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(613.63,532.26)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(633.25,559.92)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx100\pos(648.04,559.27)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(622.96,566.99)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(615.88,566.99)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(638.72,532.9)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(719.38,537.37)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\pos(728.72,538.48)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\pos(732.55,564.82)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(748.46,564.27)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\pos(787.76,537.39)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\pos(821.5,558.8)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(839.55,558.8)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(795.34,510.53)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\pos(826.47,526.77)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\pos(816.15,517.57)}.
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx125\pos(875.14,548.25)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(884.39,567.59)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(902.73,567.41)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(861.06,531.78)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(857.67,531.79)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(886.56,530.27)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(932.82,535.73)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx100\pos(926.1,535.42)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(950.9,564.63)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx75\pos(960.71,564.74)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(930.2,569.3)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx25\pos(922.09,568.95)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\fscy350\pos(965.76,557.71)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\fscy25\pos(961,530)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx125\fscy25\pos(967,530)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx150\fscy25\pos(973,530)}|
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(984.62,558.98)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx75\pos(981.85,558.67)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1011.21,572.49)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\fscy200\pos(1001.82,556.28)}|
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1043.16,549.3)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx75\pos(1054.99,549.57)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1108.31,540.56)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(1101.9,540.86)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1168.52,537.75)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\pos(1160.4,537.76)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1163.25,563.14)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\pos(1178.15,562.81)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(1191.77,525.46)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1223.33,535.94)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(1230.81,535.94)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(1230.31,516.75)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx175\fscy150\pos(1232.81,569.09)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\fscy20\pos(1213.29,562.81)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\fscy20\pos(1216.07,559.37)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx75\fscy20\pos(1221.8,561.21)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx40\fscy150\pos(1225.05,568.94)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx75\fscy20\pos(1233.06,558.38)}|
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx100\fscy20\pos(1238.02,558.22)}|
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1264.04,538.49)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx100\pos(1279,538.49)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1292.65,570.12)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx50\pos(1299.82,570.3)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1269.86,568.37)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx120\pos(1263.71,568.37)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1330.5,539.06)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(1323.69,538.89)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1349.67,525.74)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx125\pos(1364.15,527.37)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1326.95,561.25)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx175\pos(1346.64,567.57)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1326.77,565.24)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1399.62,545.97)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx100\pos(1413.69,545.97)}_
+Dialogue: 4,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&H000000&\fnCormorant Infant\fscx50\pos(1419.36,545.75)}_
+Dialogue: 5,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,{\an2\fsp15\fs50\c&HFFFFFF&\fnCormorant Infant\fscx30\pos(1423.67,545.74)}_
+Comment: 2,0:04:35.00,0:04:38.01,e-ts,,0,0,0,,
+Dialogue: 0,0:23:36.27,0:23:37.73,e-ts,,0,0,0,,{\fad(1150,0)\fs40\c&HECB82B&\b1\fnSolo Sans\fsp4.5\pos(1067.41,500.82)\blur10\bord4\3c&HECB82B&}Bir Şansım Daha Olsa
+Dialogue: 1,0:23:36.27,0:23:37.77,e-ts,,0,0,0,,{\fad(1147,0)\fs40\c&HFBF701&\b1\fnSolo Sans\fsp4.5\pos(1067.41,500.82)\blur1\t(#start,#end,\c&HFEFEE1&)}Bir Şansım Daha Olsa
+Dialogue: 0,0:23:37.73,0:23:38.90,e-ts,,0,0,0,,{\fs40\c&HECB82B&\b1\fnSolo Sans\fsp4.5\pos(1067.41,500.82)\blur10\bord3\3c&HECB82B&\t(0,200,\bord8)\t(300,932,\alpha&HFF&)}Bir Şansım Daha Olsa
+Dialogue: 1,0:23:37.77,0:23:38.90,e-ts,,0,0,0,,{\fs40\c&HFEFEE1&\b1\fnSolo Sans\fsp4.5\pos(1067.41,500.82)\3c&HC59A0B&\blur1\t(648,#end,\blur0.7)}Bir Şansım Daha Olsa
+Dialogue: 0,0:23:38.90,0:23:39.98,e-ts,,0,0,0,,{\fs40\c&HFBF9F9&\b1\fnSolo Sans\fsp4.5\blur0.7\move(1067.41,500.82,1066,498.16,19,1062)}Bir Şansım Daha Olsa
+Dialogue: 0,0:04:38.51,0:04:42.51,e-ts,,0,0,0,,{\an7\bord0\shad0\blur1\pos(0,0)\p1\c&H000000&}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 1,0:04:38.51,0:04:40.51,e-ts,,0,0,0,,{\blur0.6\fsp15\fs100\c&HFFFFFF&\fnSequel Sans Light Head\b1}3  YIL SONRA
+Dialogue: 1,0:04:40.51,0:04:42.51,e-ts,,0,0,0,,{\blur0.6\fsp15\fs100\c&HFFFFFF&\fnSequel Sans Light Head\b1}GÜNÜMÜZ
+Dialogue: 1,0:00:02.02,0:00:05.49,e-ts,,0,0,0,,{\blur0.6\fsp15\fs66\fad(1525,0)\c&HFBFFFF&\fnSequel Sans Light Head\pos(960,900)\b1}3  YIL ÖNCE
+Dialogue: 0,0:22:05.18,0:23:34.98,op,,0,0,0,,{\fad(0,200)\blur10\an7\pos(963,1326)\c&H000000&\p1}m -1113.6 -1346.4 l 1112.44 -1346.4 1112.44 -1217.3 -1113.6 -1217.3
+Dialogue: 1,0:22:11.11,0:22:13.18,op,,0,0,0,,{\fad(185,125)}Anımsayamadım unutmayı
+Dialogue: 1,0:22:13.18,0:22:15.32,op,,0,0,0,,{\fad(185,125)}Bahsi kaybeden veledi
+Dialogue: 1,0:22:15.32,0:22:17.28,op,,0,0,0,,{\fad(185,125)}Hem ceset dağları
+Dialogue: 1,0:22:17.28,0:22:19.70,op,,0,0,0,,{\fad(185,125)}Hem faturalar ardımda sıralı
+Dialogue: 1,0:22:19.70,0:22:21.47,op,,0,0,0,,{\fad(185,125)}Minnet duyasın
+Dialogue: 1,0:22:21.47,0:22:23.32,op,,0,0,0,,{\fad(185,125)}Ki yeniden başlatasın
+Dialogue: 1,0:22:23.78,0:22:25.72,op,,0,0,0,,{\fad(185,125)}Göster farkını ki
+Dialogue: 1,0:22:25.72,0:22:27.24,op,,0,0,0,,{\fad(185,125)}Kurtar kendini
+Dialogue: 1,0:22:27.24,0:22:28.33,op,,0,0,0,,{\fad(185,125)}Tanrıyım sanki!
+Dialogue: 1,0:22:28.33,0:22:30.39,op,,0,0,0,,{\fad(185,125)}Hissedemiyorum
+Dialogue: 1,0:22:30.39,0:22:31.82,op,,0,0,0,,{\fad(185,125)}Borcumu kapattım
+Dialogue: 1,0:22:31.82,0:22:34.57,op,,0,0,0,,{\fad(185,125)}Ama korunaksızım
+Dialogue: 1,0:22:35.92,0:22:37.00,op,,0,0,0,,{\fad(185,125)}Bitirelim!
+Dialogue: 1,0:22:37.00,0:22:38.63,op,,0,0,0,,{\fad(185,125)}Kendini ada
+Dialogue: 1,0:22:38.63,0:22:41.34,op,,0,0,0,,{\fad(185,125)}Kendini ada var gücünle
+Dialogue: 1,0:22:41.34,0:22:42.93,op,,0,0,0,,{\fad(185,125)}Kendini ada
+Dialogue: 1,0:22:42.93,0:22:45.37,op,,0,0,0,,{\fad(185,125)}Kendini ada var gücünle
+Dialogue: 1,0:22:45.37,0:22:47.35,op,,0,0,0,,{\fad(185,125)}Yalnız yürümek istemiyor musun?
+Dialogue: 1,0:22:47.35,0:22:48.90,op,,0,0,0,,{\fad(185,125)}Eline ne geçecek?
+Dialogue: 1,0:22:48.90,0:22:49.45,op,,0,0,0,,{\fad(185,125)}Söz ver!
+Dialogue: 1,0:22:49.45,0:22:51.99,op,,0,0,0,,{\fad(185,125)}Sakın unutma, yalnızsın!
+Dialogue: 1,0:22:51.99,0:22:53.83,op,,0,0,0,,{\fad(185,125)}Kendini ada var gücünle
+Dialogue: 1,0:22:53.83,0:22:55.67,op,,0,0,0,,{\fad(185,125)}Kendini bulmaya uzan...
+Dialogue: 1,0:22:55.67,0:22:57.84,op,,0,0,0,,{\fad(185,125)}Kendini bulmaya uzanmalısın...
+Dialogue: 1,0:22:57.84,0:22:59.99,op,,0,0,0,,{\fad(185,125)}Hadi kendini bulmaya uzan...
+Dialogue: 1,0:22:59.99,0:23:02.19,op,,0,0,0,,{\fad(185,125)}Kalk ve yakala
+Dialogue: 1,0:23:02.19,0:23:04.00,op,,0,0,0,,{\fad(185,125)}Kendini bulmaya uzan...
+Dialogue: 1,0:23:04.00,0:23:06.32,op,,0,0,0,,{\fad(185,125)}Hadi kendini bulmaya uzan...
+Dialogue: 1,0:23:06.32,0:23:08.24,op,,0,0,0,,{\fad(185,125)}Artık kendini bulmaya uzan...
+Dialogue: 1,0:23:09.00,0:23:11.04,op,,0,0,0,,{\fad(185,125)}Dal, çık, işi bitir
+Dialogue: 1,0:23:13.01,0:23:15.38,op,,0,0,0,,{\fad(185,125)}Game over ama verdiler eline cheat codes
+Dialogue: 1,0:23:15.38,0:23:17.38,op,,0,0,0,,{\fad(185,125)}Little kiddy gördü dibi, burnu kanlar içinde
+Dialogue: 1,0:23:17.38,0:23:19.38,op,,0,0,0,,{\fad(185,125)}Adam kapağa kondu ama okumuyor bile
+Dialogue: 1,0:23:19.58,0:23:20.65,op,,0,0,0,,{\fad(185,125)}Başlıklar
+Dialogue: 1,0:23:20.65,0:23:21.38,op,,0,0,0,,{\fad(185,125)}Başlıklar
+Dialogue: 1,0:23:21.62,0:23:23.70,op,,0,0,0,,{\fad(185,125)}Gücü doruklarda ama sıfır ego
+Dialogue: 1,0:23:23.70,0:23:25.88,op,,0,0,0,,{\fad(185,125)}Zaten bizim oğlan, başladığı yer zero
+Dialogue: 1,0:23:25.88,0:23:27.99,op,,0,0,0,,{\fad(185,125)}Her savaşında büyümesini görüyoruz gücünde
+Dialogue: 1,0:23:27.99,0:23:29.00,op,,0,0,0,,{\fad(185,125)}Büyümeye devam
+Dialogue: 1,0:23:29.00,0:23:31.00,op,,0,0,0,,{\fad(185,125)}Bitirelim!
