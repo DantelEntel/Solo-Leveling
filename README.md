@@ -1,0 +1,2 @@
+# Solo-Leveling
+Tek Yükselebilen
