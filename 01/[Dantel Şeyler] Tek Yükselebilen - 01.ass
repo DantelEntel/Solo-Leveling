@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Title: Dantel Şeyler
+Title: Dantel Entel
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -22,7 +22,7 @@ Dialogue: 20,0:00:15.10,0:00:19.49,Default,,0,0,0,,Bizdeki silahlarla o şeylere
 Dialogue: 20,0:00:21.04,0:00:25.62,Default,,0,0,0,,Burada bütün iş avcıların.
 Dialogue: 20,0:00:42.23,0:00:43.80,Default,,0,0,0,,Herkes saldırsın!
 Dialogue: 20,0:00:43.80,0:00:46.84,Default,,0,0,0,,Bizi geçtikleri anda ön cephenin işi biter!
-Dialogue: 20,0:01:03.02,0:01:07.42,Default,,0,0,0,,Olamaz! Seviyelerimiz çok düşük, hiç şansımız yok!
+Dialogue: 20,0:01:03.02,0:01:07.42,Default,,0,0,0,,Olamaz! Sınıflarımız çok düşük, hiç şansımız yok!
 Dialogue: 20,0:01:08.77,0:01:10.84,Default,,0,0,0,,{\i1}Lanet olsun... Daha fazla...
 Dialogue: 20,0:01:11.36,0:01:12.55,Default,,0,0,0,,{\i1}...dayanamayacağım...
 Dialogue: 20,0:01:23.19,0:01:24.52,Default,,0,0,0,,{\i1}Şifa büyüsü mü?
@@ -31,8 +31,8 @@ Dialogue: 20,0:01:30.44,0:01:32.20,Default,,0,0,0,,Dikkat et!
 Dialogue: 20,0:01:32.20,0:01:34.12,Default,,0,0,0,,Piyangiyu, eğil!
 Dialogue: 20,0:01:35.70,0:01:37.03,Default,,0,0,0,,Yunho!
 Dialogue: 20,0:01:37.03,0:01:37.87,Default,,0,0,0,,Geldim!
-Dialogue: 20,0:01:50.36,0:01:51.69,Default,,0,0,0,,Bunlar S Seviye!
-Dialogue: 20,0:01:51.69,0:01:53.68,Default,,0,0,0,,S Seviye avcılar da dahil oldu!
+Dialogue: 20,0:01:50.36,0:01:51.69,Default,,0,0,0,,Bunlar S sınıfı!
+Dialogue: 20,0:01:51.69,0:01:53.68,Default,,0,0,0,,S sınıfı avcılar da dahil oldu!
 Dialogue: 20,0:01:53.68,0:01:56.06,Default,,0,0,0,,Çok acele ediyorsun Piyangiyu.
 Dialogue: 20,0:01:56.06,0:01:59.36,Default,,0,0,0,,Kusura bakmayın. Elimden geldiğince\Nfazla kişiye yardım etmek istiyorum.
 Dialogue: 20,0:01:59.36,0:02:03.35,Default,,0,0,0,,Ayrıca, beni koruyacağınızı biliyorum.
@@ -58,9 +58,9 @@ Dialogue: 20,0:04:06.01,0:04:08.37,Default,,0,0,0,,Geleneksel silahlarımıza ka
 Dialogue: 20,0:04:08.37,0:04:12.12,Default,,0,0,0,,Bu canavarlarla savaşabilecek\Nyetenekleri ortaya çıkanlara...
 Dialogue: 20,0:04:12.51,0:04:14.68,Default,,0,0,0,,...avcılar denildi.
 Dialogue: 20,0:04:14.68,0:04:17.86,Default,,0,0,0,,Bedenlerindeki büyü gücü miktarına bağlı olarak...
-Dialogue: 20,0:04:17.86,0:04:25.29,Default,,0,0,0,,...yukarıdan aşağıya S, A, B, C, D\Nve E seviye olarak sınıflandırıldılar.
+Dialogue: 20,0:04:17.86,0:04:25.29,Default,,0,0,0,,...yukarıdan aşağıya S, A, B, C, D\Nve E sınıfı olarak sınıflandırıldılar.
 Dialogue: 20,0:04:26.38,0:04:31.32,Default,,0,0,0,,Ancak güçleri ortaya çıktıktan sonra,\Nne kadar uğraşırlarsa uğraşsınlar...
-Dialogue: 20,0:04:32.00,0:04:35.00,Default,,0,0,0,,...seviyelerini yükseltemiyorlardı.
+Dialogue: 20,0:04:32.00,0:04:35.00,Default,,0,0,0,,...sınıflarını yükseltemiyorlardı.
 Dialogue: 20,0:04:58.47,0:05:00.54,Default,,0,0,0,,Baskında iyi şanslar.
 Dialogue: 20,0:05:00.54,0:05:01.72,Default,,0,0,0,,Teşekkürler.
 Dialogue: 20,0:05:03.59,0:05:04.91,Default,,0,0,0,,Bay Kim!
@@ -84,7 +84,7 @@ Dialogue: 20,0:05:52.04,0:05:55.79,Default,,0,0,0,,Sen bıraktıktan sonra katı
 Dialogue: 20,0:05:56.10,0:05:58.86,Default,,0,0,0,,"İnsanlığın Gördüğü En Güçsüz Avcı" diye ad taktılar.
 Dialogue: 20,0:05:58.86,0:06:01.36,Default,,0,0,0,,En güçsüz mü?\NGüçlü derken dilin mi sürçtü?
 Dialogue: 20,0:06:01.36,0:06:02.30,Default,,0,0,0,,Hayır.
-Dialogue: 20,0:06:02.30,0:06:05.30,Default,,0,0,0,,Şöyle diyeyim, E seviye bir geçide\Ngirip çıktığında, hastanelik oldu.
+Dialogue: 20,0:06:02.30,0:06:05.30,Default,,0,0,0,,Şöyle diyeyim, E sınıfı bir geçide\Ngirip çıktığında, hastanelik oldu.
 Dialogue: 20,0:06:05.86,0:06:08.41,Default,,0,0,0,,Muhtemelen dünyadaki en güçsüz avcıdır.
 Dialogue: 20,0:06:08.41,0:06:11.14,Default,,0,0,0,,Dünyadaki en güçsüz mü?\NO kadar mı kötü durumda?
 Dialogue: 20,0:06:11.14,0:06:15.04,Default,,0,0,0,,Şöyle düşünebilirsin, onun davet\Nedildiği bir baskın, çantada kekliktir.
@@ -98,9 +98,9 @@ Dialogue: 20,0:06:34.77,0:06:37.89,Default,,0,0,0,,Bırak şimdi de suratına ne
 Dialogue: 20,0:06:37.89,0:06:40.83,Default,,0,0,0,,Her zaman olan şey işte...
 Dialogue: 20,0:06:41.99,0:06:44.34,Default,,0,0,0,,Biraz kendine dikkat et ya!
 Dialogue: 20,0:06:45.49,0:06:47.76,Default,,0,0,0,,Hastanelik olduğunu duydum.
-Dialogue: 20,0:06:47.76,0:06:50.36,Default,,0,0,0,,E seviye bir zindandı,\No yüzden sadece ben yaralandım.
+Dialogue: 20,0:06:47.76,0:06:50.36,Default,,0,0,0,,E sınıfı bir zindandı,\No yüzden sadece ben yaralandım.
 Dialogue: 20,0:06:50.99,0:06:52.67,Default,,0,0,0,,Yanınızda şifacı yok muydu?
-Dialogue: 20,0:06:53.02,0:06:57.81,Default,,0,0,0,,Benim dışımdakiler yüksek seviye\Nolduğu için şifacıya gerek duymamışlar.
+Dialogue: 20,0:06:53.02,0:06:57.81,Default,,0,0,0,,Benim dışımdakiler yüksek sınıf\Nolduğu için şifacıya gerek duymamışlar.
 Dialogue: 20,0:06:58.13,0:06:59.42,Default,,0,0,0,,Ciddi misin?
 Dialogue: 20,0:06:59.42,0:07:01.58,Default,,0,0,0,,Yalnızca kendilerini düşünmeleri çok ayıp!
 Dialogue: 20,0:07:01.58,0:07:04.74,Default,,0,0,0,,Sorun değil. Zayıflığımın\Nsorumluluğunu onlara yükleyemeyiz.
@@ -142,11 +142,11 @@ Dialogue: 20,0:09:27.88,0:09:29.93,Default,,0,0,0,,Sonraki canavara geçiyorum.
 Dialogue: 20,0:09:29.93,0:09:31.75,Default,,0,0,0,,Juhi, Sang sana emanet!
 Dialogue: 20,0:09:32.28,0:09:33.59,Default,,0,0,0,,Tamam!
 Dialogue: 20,0:09:35.22,0:09:38.90,Default,,0,0,0,,İyi olacaksın!\NSeni iyileştireceğim!
-Dialogue: 20,0:09:55.54,0:09:59.53,Default,,0,0,0,,Yüksek seviye canavarlardan\Ntoplanan cevherler ile...
+Dialogue: 20,0:09:55.54,0:09:59.53,Default,,0,0,0,,Yüksek sınıf canavarlardan\Ntoplanan cevherler ile...
 Dialogue: 20,0:09:59.53,0:10:05.21,Default,,0,0,0,,...canavarlarla dövüşmeye yarayan\Ngüçlü silahlar ve ekipmanlar yapılıyor.
 Dialogue: 20,0:10:05.76,0:10:10.40,Default,,0,0,0,,Zindanların içinden çıkan büyü kristallerinin de\Nbenzer bir kullanım alanı var...
 Dialogue: 20,0:10:10.40,0:10:13.01,Default,,0,0,0,,...ama etkileri daha düşük oluyor.
-Dialogue: 20,0:10:13.01,0:10:15.95,Default,,0,0,0,,Hükûmetin peşinde olduğu şeyse farklı.
+Dialogue: 20,0:10:13.01,0:10:15.95,Default,,0,0,0,,Hükümetin peşinde olduğu şeyse farklı.
 Dialogue: 20,0:10:16.52,0:10:19.40,Default,,0,0,0,,Onlardan enerji kaynağı\Nolarak faydalanmak istiyorlar.
 Dialogue: 20,0:10:19.97,0:10:22.14,Default,,0,0,0,,Nükleerden daha güvenli.
 Dialogue: 20,0:10:22.14,0:10:25.34,Default,,0,0,0,,Hidroelektriğe, rüzgara ve\Njeotermale göre daha verimli.
@@ -170,7 +170,7 @@ Dialogue: 20,0:11:25.03,0:11:27.55,Default,,0,0,0,,Alabildiğimiz kadarını ald
 Dialogue: 20,0:11:27.55,0:11:30.37,Default,,0,0,0,,Pek büyü kristali çıkmadı maalesef.
 Dialogue: 20,0:11:30.37,0:11:33.13,Default,,0,0,0,,Çok bir şey kazandırmayacak.
 Dialogue: 20,0:11:34.05,0:11:35.82,Default,,0,0,0,,{\i1}Bitti demek.
-Dialogue: 20,0:11:36.72,0:11:40.22,Default,,0,0,0,,{\i1}Elime tek geçen de bir E seviye cevher oldu.
+Dialogue: 20,0:11:36.72,0:11:40.22,Default,,0,0,0,,{\i1}Elime tek geçen de bir E sınıfı cevher oldu.
 Dialogue: 20,0:11:41.32,0:11:43.93,Default,,0,0,0,,{\i1}Ölümle burun buruna gelmeye değer mi, tartışılır.
 Dialogue: 20,0:11:47.27,0:11:49.02,Default,,0,0,0,,Şuna bakın!
 Dialogue: 20,0:11:49.83,0:11:50.73,Default,,0,0,0,,Mağara mı?
@@ -187,7 +187,7 @@ Dialogue: 20,0:12:12.69,0:12:15.08,Default,,0,0,0,,Bunun gibi beklenmedik duruml
 Dialogue: 20,0:12:15.08,0:12:18.55,Default,,0,0,0,,...standart prosedür, Avcılar Birliği'nin\Nemirlerini beklemek şeklindedir.
 Dialogue: 20,0:12:18.55,0:12:20.62,Default,,0,0,0,,Durun bir saniye Bay Song...
 Dialogue: 20,0:12:20.62,0:12:24.22,Default,,0,0,0,,O zaman yeni bir grup gelip\Ntüm iyi malları ceplemiş olmayacak mı?
-Dialogue: 20,0:12:24.22,0:12:28.19,Default,,0,0,0,,Sonuçta D seviye zindanın devamı, bize koymaz.
+Dialogue: 20,0:12:24.22,0:12:28.19,Default,,0,0,0,,Sonuçta D sınıfı zindanın devamı, bize koymaz.
 Dialogue: 20,0:12:28.19,0:12:32.19,Default,,0,0,0,,Adam tekrar baba olmak üzere.\NPek büyü kristali de bulamadık.
 Dialogue: 20,0:12:32.70,0:12:35.46,Default,,0,0,0,,Kuralları birazcık esnetsek, ne çıkar?
 Dialogue: 20,0:12:35.46,0:12:36.73,Default,,0,0,0,,Değil mi?
@@ -200,14 +200,14 @@ Dialogue: 20,0:12:46.42,0:12:47.34,Default,,0,0,0,,Hayır.
 Dialogue: 20,0:12:47.34,0:12:48.68,Default,,0,0,0,,Bir kontrol edelim.
 Dialogue: 20,0:12:48.68,0:12:49.44,Default,,0,0,0,,Aynen.
 Dialogue: 20,0:12:49.44,0:12:50.19,Default,,0,0,0,,Evet.
-Dialogue: 20,0:12:50.19,0:12:51.75,Default,,0,0,0,,Sanmıyorum.
-Dialogue: 20,0:12:51.75,0:12:53.16,Default,,0,0,0,,Bence girelim.
+Dialogue: 20,0:12:50.19,0:12:51.75,Default,,0,0,0,,Bence gerek yok.
+Dialogue: 20,0:12:51.75,0:12:53.16,Default,,0,0,0,,Bence var.
 Dialogue: 20,0:12:53.16,0:12:54.09,Default,,0,0,0,,Bence de.
 Dialogue: 20,0:12:54.09,0:12:57.05,Default,,0,0,0,,Üzgünüm, ben istemiyorum.
 Dialogue: 20,0:12:58.16,0:13:00.88,Default,,0,0,0,,Oylar 6-6 oldu.
 Dialogue: 20,0:13:01.28,0:13:04.03,Default,,0,0,0,,Senin oyun kaldı Sang.\NSen ne diyorsun?
 Dialogue: 20,0:13:04.03,0:13:05.97,Default,,0,0,0,,Bence...
-Dialogue: 20,0:13:07.06,0:13:11.14,Default,,0,0,0,,{\i1}D seviye zindanlar bile benim için bayağı tehlikeli.
+Dialogue: 20,0:13:07.06,0:13:11.14,Default,,0,0,0,,{\i1}D sınıfı zindanlar bile benim için bayağı tehlikeli.
 Dialogue: 20,0:13:11.96,0:13:14.99,Default,,0,0,0,,{\i1}Ama... Babam kayıp olduğu için...
 Dialogue: 20,0:13:14.99,0:13:17.15,Default,,0,0,0,,{\i1}...aileme ben bakmak zorundayım.
 Dialogue: 20,0:13:18.02,0:13:22.07,Default,,0,0,0,,{\i1}Annemin tedavisi ve kız kardeşimin\Nüniversiteye gitmesi için para gerekli...
@@ -215,10 +215,10 @@ Dialogue: 20,0:13:22.71,0:13:25.53,Default,,0,0,0,,{\i1}Bana para lazım!
 Dialogue: 20,0:13:26.68,0:13:27.69,Default,,0,0,0,,Gidelim.
 Dialogue: 20,0:13:34.71,0:13:38.02,Default,,0,0,0,,Şimdi, siyah kristale tek elinizle\Ndokunmanızı rica edeceğim.
 Dialogue: 20,0:13:44.64,0:13:46.64,Default,,0,0,0,,Sıradaki lütfen.
-Dialogue: 20,0:13:50.18,0:13:53.58,Default,,0,0,0,,C seviye misin?\NLoncamıza katılmanı isteriz.
+Dialogue: 20,0:13:50.18,0:13:53.58,Default,,0,0,0,,C sınıfı mısın?\NLoncamıza katılmanı isteriz.
 Dialogue: 20,0:13:53.58,0:13:56.59,Default,,0,0,0,,İşte kontrat.
 Dialogue: 20,0:13:56.59,0:13:58.79,Default,,0,0,0,,Çalışma şartlarını detaylı şekilde görebilirsin...
-Dialogue: 20,0:14:01.82,0:14:07.20,Default,,0,0,0,,Evet. Bir B, iki tane de C seviye\Nanlaşmayı kabul etti.
+Dialogue: 20,0:14:01.82,0:14:07.20,Default,,0,0,0,,Evet. Bir B, iki tane de C sınıfı\Nanlaşmayı kabul etti.
 Dialogue: 20,0:14:07.64,0:14:10.11,Default,,0,0,0,,Şimdilik işler iyi gidiyor Lonca lideri Çüve.
 Dialogue: 20,0:14:10.11,0:14:11.66,Default,,0,0,0,,Çok sevindim.
 Dialogue: 20,0:14:11.66,0:14:16.38,Default,,0,0,0,,Yaş ve cinsiyetin bir önemi yok.\NYatırım yapmaya değiyorsa, teklifini yap.
@@ -230,7 +230,7 @@ Dialogue: 20,0:14:57.50,0:14:58.00,Default,,0,0,0,,İşte.
 Dialogue: 20,0:14:58.75,0:15:01.28,Default,,0,0,0,,Teşekkürler! Çok teşekkür ederim!
 Dialogue: 20,0:14:59.96,0:15:01.28,Default,,0,0,0,,{\an8}Heğyin Ça bu!
 Dialogue: 20,0:15:01.28,0:15:02.34,Default,,0,0,0,,Heğyin Ça!
-Dialogue: 20,0:15:02.34,0:15:03.47,Default,,0,0,0,,S seviye avcı!
+Dialogue: 20,0:15:02.34,0:15:03.47,Default,,0,0,0,,S sınıfı avcı!
 Dialogue: 20,0:15:03.47,0:15:04.61,Default,,0,0,0,,Vay be!
 Dialogue: 20,0:15:04.61,0:15:05.48,Default,,0,0,0,,Gerçekten de o!
 Dialogue: 20,0:15:05.48,0:15:06.48,Default,,0,0,0,,Harika ya!
@@ -238,7 +238,7 @@ Dialogue: 20,0:15:06.48,0:15:07.39,Default,,0,0,0,,{\an8}Seni çok seviyorum!
 Dialogue: 20,0:15:06.48,0:15:09.19,Default,,0,0,0,,Özür dilerim...
 Dialogue: 20,0:15:07.39,0:15:08.69,Default,,0,0,0,,{\an8}Elini sıkabilir miyim?
 Dialogue: 20,0:15:15.10,0:15:16.68,Default,,0,0,0,,Hareketlere bak!
-Dialogue: 20,0:15:16.68,0:15:19.02,Default,,0,0,0,,S seviye işte.
+Dialogue: 20,0:15:16.68,0:15:19.02,Default,,0,0,0,,S sınıfı işte.
 Dialogue: 20,0:15:21.28,0:15:23.71,Default,,0,0,0,,Mağaraya gireli ne kadar oldu?
 Dialogue: 20,0:15:23.71,0:15:25.64,Default,,0,0,0,,40 dakika kadar.
 Dialogue: 20,0:15:25.64,0:15:28.56,Default,,0,0,0,,Geçit, zindan efendisi öldükten\N1 saat sonra kapanıyorsa...
@@ -255,7 +255,7 @@ Dialogue: 20,0:15:50.30,0:15:54.35,Default,,0,0,0,,Deminki saldırı biraz daha 
 Dialogue: 20,0:15:54.35,0:15:59.62,Default,,0,0,0,,Kollarınla bacaklarını\Nzar zor iyileştirdim! Deli misin!
 Dialogue: 20,0:15:59.62,0:16:03.19,Default,,0,0,0,,Kafana darbe almadığına emin misin?\NÇünkü ben emin değilim!
 Dialogue: 20,0:16:03.19,0:16:04.69,Default,,0,0,0,,Özür dilerim...
-Dialogue: 20,0:16:05.15,0:16:10.16,Default,,0,0,0,,{\i1}Juhi gibi B seviye bir şifacının olması\Nsayesinde birkaç kez ölümden döndüğüm doğru.
+Dialogue: 20,0:16:05.15,0:16:10.16,Default,,0,0,0,,{\i1}Juhi gibi B sınıfı bir şifacının olması\Nsayesinde birkaç kez ölümden döndüğüm doğru.
 Dialogue: 20,0:16:10.62,0:16:12.71,Default,,0,0,0,,Sorunun farkında mısın gerçekten?
 Dialogue: 20,0:16:12.71,0:16:13.65,Default,,0,0,0,,Evet.
 Dialogue: 20,0:16:15.44,0:16:19.62,Default,,0,0,0,,O halde belki minnettarlığını göstermek\Niçin bana bir şeyler ısmarlarsın.
@@ -297,7 +297,7 @@ Dialogue: 20,0:18:12.32,0:18:14.15,Default,,0,0,0,,Bir tane bile yok...
 Dialogue: 20,0:18:15.86,0:18:18.04,Default,,0,0,0,,Bu ne?\NBüyü çemberi mi?
 Dialogue: 20,0:18:18.04,0:18:20.75,Default,,0,0,0,,Bay Song! Burada bir yazı var!
 Dialogue: 20,0:18:21.67,0:18:24.21,Default,,0,0,0,,Kadim bir metin mi acaba? Bir bakalım...
-Dialogue: 20,0:18:24.88,0:18:27.59,Default,,0,0,0,,"Cartenon Tapınağı'nın Emirleri."
+Dialogue: 20,0:18:24.88,0:18:27.59,Default,,0,0,0,,"Kartenon Tapınağı'nın Emirleri."
 Dialogue: 20,0:18:27.59,0:18:30.26,Default,,0,0,0,,"Bir, Tanrı'ya saygı gösterin."
 Dialogue: 20,0:18:30.76,0:18:33.59,Default,,0,0,0,,"İki, Tanrı'ya şükredin."
 Dialogue: 20,0:18:31.35,0:18:32.38,Default,,0,0,0,,{\an8}Jinu!
@@ -322,17 +322,17 @@ Dialogue: 20,0:19:37.33,0:19:38.16,Default,,0,0,0,,Şaka mı bu?
 Dialogue: 20,0:19:38.16,0:19:38.95,Default,,0,0,0,,Hareket etti!
 Dialogue: 20,0:19:39.56,0:19:42.13,Default,,0,0,0,,Bunlarla mı savaşacağız?
 Dialogue: 20,0:19:43.81,0:19:46.20,Default,,0,0,0,,{\i1}Ölen eleman...
-Dialogue: 20,0:19:46.20,0:19:47.37,Default,,0,0,0,,{\i1}...D seviye miydi?
-Dialogue: 20,0:19:47.72,0:19:51.02,Default,,0,0,0,,{\i1}E seviye bile olsa, hiç değilse\Nbenden iyi olduğu kesindi.
+Dialogue: 20,0:19:46.20,0:19:47.37,Default,,0,0,0,,{\i1}...D sınıfı mıydı?
+Dialogue: 20,0:19:47.72,0:19:51.02,Default,,0,0,0,,{\i1}E sınıfı bile olsa, hiç değilse\Nbenden iyi olduğu kesindi.
 Dialogue: 20,0:19:52.21,0:19:55.01,Default,,0,0,0,,{\i1}Yine de bir anda... öylece...
-Dialogue: 20,0:19:55.67,0:19:58.56,Default,,0,0,0,,{\i1}Çok saçma! Burası D seviye bir zindandı!
+Dialogue: 20,0:19:55.67,0:19:58.56,Default,,0,0,0,,{\i1}Çok saçma! Burası D sınıfı bir zindandı!
 Dialogue: 20,0:19:58.56,0:20:00.64,Default,,0,0,0,,{\i1}İçeride bu tarz büyülü canavarlar olmamalıydı!
 Dialogue: 20,0:20:01.08,0:20:04.33,Default,,0,0,0,,Heykeller hareket ediyor... Yoksa...
 Dialogue: 20,0:20:18.28,0:20:22.20,Default,,0,0,0,,{\i1}Bugüne kadar onlarca kez\Nölümle yüz yüze geldim.
 Dialogue: 20,0:20:22.83,0:20:26.25,Default,,0,0,0,,{\i1}Katıldığım ilk baskında\Nherkesten ayrı düştüm ve kayboldum.
-Dialogue: 20,0:20:26.90,0:20:30.41,Default,,0,0,0,,{\i1}E seviye canavarların saldırısına uğrayıp,\Nhaftalarca hastanede yattım.
+Dialogue: 20,0:20:26.90,0:20:30.41,Default,,0,0,0,,{\i1}E sınıfı canavarların saldırısına uğrayıp,\Nhaftalarca hastanede yattım.
 Dialogue: 20,0:20:30.78,0:20:33.89,Default,,0,0,0,,{\i1}Labirentin tekinde de\Nneredeyse açlıktan ölüyordum.
-Dialogue: 20,0:20:34.30,0:20:38.93,Default,,0,0,0,,{\i1}Zindanın seviyesi ne kadar düşük\Nolursa olsun, daima yaşam savaşı verdim.
+Dialogue: 20,0:20:34.30,0:20:38.93,Default,,0,0,0,,{\i1}Zindanın zorluğu ne kadar düşük\Nolursa olsun, daima yaşam savaşı verdim.
 Dialogue: 20,0:20:39.88,0:20:44.02,Default,,0,0,0,,{\i1}Çoğu avcı cevherlerden kazandıkları\Nparayla silah alabiliyor...
 Dialogue: 20,0:20:44.02,0:20:48.31,Default,,0,0,0,,{\i1}...böylece daha güçlü canavarlar öldürüp,\Ndaha büyük kazançlar elde edebiliyorlardı.
 Dialogue: 20,0:20:48.98,0:20:51.67,Default,,0,0,0,,{\i1}Ama ben ancak bu ucuz bıçağı alabiliyordum.
@@ -468,8 +468,8 @@ Dialogue: 1,0:22:11.11,0:22:13.18,op,,0,0,0,,{\fad(185,125)}Anımsayamadım unut
 Dialogue: 1,0:22:13.18,0:22:15.32,op,,0,0,0,,{\fad(185,125)}Bahsi kaybeden veledi
 Dialogue: 1,0:22:15.32,0:22:17.28,op,,0,0,0,,{\fad(185,125)}Hem ceset dağları
 Dialogue: 1,0:22:17.28,0:22:19.70,op,,0,0,0,,{\fad(185,125)}Hem faturalar ardımda sıralı
-Dialogue: 1,0:22:19.70,0:22:21.47,op,,0,0,0,,{\fad(185,125)}Minnet duyasın
-Dialogue: 1,0:22:21.47,0:22:23.32,op,,0,0,0,,{\fad(185,125)}Ki yeniden başlatasın
+Dialogue: 1,0:22:19.70,0:22:21.47,op,,0,0,0,,{\fad(185,125)}Minnet duyasın ki
+Dialogue: 1,0:22:21.47,0:22:23.32,op,,0,0,0,,{\fad(185,125)}Yeniden başlatasın
 Dialogue: 1,0:22:23.78,0:22:25.72,op,,0,0,0,,{\fad(185,125)}Göster farkını ki
 Dialogue: 1,0:22:25.72,0:22:27.24,op,,0,0,0,,{\fad(185,125)}Kurtar kendini
 Dialogue: 1,0:22:27.24,0:22:28.33,op,,0,0,0,,{\fad(185,125)}Tanrıyım sanki!
